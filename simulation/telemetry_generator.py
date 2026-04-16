@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
-from merge_engine import build_dataset
-from pass_detector import detect_passes
+from processing.merge_engine import build_dataset
+from analytics.pass_detector import detect_passes
 
 
 # =========================
